@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 dataset.data.push(15);
             
             // Add new data point (example value 30)
-            dataset.data.push(30);
+            dataset.data.push(0);
         });
         trafficChart.update();
     }, 5000);
